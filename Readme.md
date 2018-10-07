@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Ekaterina Tsvetaeva](https://up.htmlacademy.ru/htmlcss/17/user/195760).
+* Студент: [Ars](https://up.htmlacademy.ru/htmlcss/17/user/195760).
 * Наставник: `Неизвестно`.
 
 ---
